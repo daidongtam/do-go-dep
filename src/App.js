@@ -1,24 +1,52 @@
-import logo from './logo.svg';
-import './App.css';
+import Template from "./template/Template";
+import ProductDetail from "./products/detail/ProductDetail";
+import { Switch, Route } from "react-router-dom";
+import Landing from "./landing/Landing";
+import Introduce from './template/Introduce';
+import Service from "./template/Service";
+import Service1 from './template/Service1';
+import Service2 from './template/Service2';
+import Service3 from "./template/Service3";
+import Service4 from "./template/Service4";
+import Contact from './template/Contact';
+import Certificate from './template/Certificate';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Template>
+      <Switch>
+        <Route path="/introduce" exact>
+          <Introduce />
+        </Route>
+        <Route path="/service" exact>
+          <Service />
+        </Route>
+        <Route path="/service1" exact>
+          <Service1 />
+        </Route>
+        <Route path="/service2" exact>
+          <Service2 />
+        </Route>
+        <Route path="/service3" exact>
+          <Service3 />
+        </Route>
+        <Route path="/service4" exact>
+          <Service4 />
+        </Route>
+        <Route path="/contact" exact>
+          <Contact />
+        </Route>
+        <Route path="/certificate" exact>
+          <Certificate />
+        </Route>
+        <Route path="/products/:productId/:type">
+          <ProductDetail />
+        </Route>
+        <Route path="/" exact>
+          <Landing />
+        </Route>
+      </Switch>
+    </Template>
   );
 }
 
