@@ -1,6 +1,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Link } from "react-router-dom";
 import { useState } from "react";
+import logo1 from "../images/products/phongtho/logo1.PNG" 
 
 function Header() {
 
@@ -21,12 +22,10 @@ function Header() {
       <nav className="navbar fixed-top navbar-expand-lg bg-light navbar-light border-bottom">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/" onClick={changeNav}>
-            <FontAwesomeIcon
-              icon={["fab", "bootstrap"]}
-              className="ms-1"
-              size="lg"
-            />
-            <span className="ms-2 h3 text-uppercase">Đồ Gỗ Đại Đồng Tâm - 0982385996</span>
+            <img style={{ height: "30px" }} alt="" src={logo1} className="mb-2 rounded-circle"/>
+            <span className="ms-2 h3 text-uppercase">
+              Đồ Gỗ Đại Đồng Tâm - 0982385996
+            </span>
           </Link>
 
           <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -43,7 +42,7 @@ function Header() {
             </button>
             <div className="collapse navbar-collapse" id="navbarNav">
               <ul className="navbar-nav">
-              <li className="nav-item active">
+                <li className="nav-item active">
                   <Link className="nav-link  text-uppercase" to="/">
                     Trang chủ <span className="sr-only">(current)</span>
                   </Link>
