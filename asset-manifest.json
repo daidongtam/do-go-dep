@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/project-dogo/static/css/main.d168882f.chunk.css",
-    "main.js": "/project-dogo/static/js/main.b7952a6d.chunk.js",
-    "main.js.map": "/project-dogo/static/js/main.b7952a6d.chunk.js.map",
+    "main.js": "/project-dogo/static/js/main.fd64fb39.chunk.js",
+    "main.js.map": "/project-dogo/static/js/main.fd64fb39.chunk.js.map",
     "runtime-main.js": "/project-dogo/static/js/runtime-main.b424a7f0.js",
     "runtime-main.js.map": "/project-dogo/static/js/runtime-main.b424a7f0.js.map",
-    "static/js/2.cb92b5a3.chunk.js": "/project-dogo/static/js/2.cb92b5a3.chunk.js",
-    "static/js/2.cb92b5a3.chunk.js.map": "/project-dogo/static/js/2.cb92b5a3.chunk.js.map",
+    "static/js/2.8a5913de.chunk.js": "/project-dogo/static/js/2.8a5913de.chunk.js",
+    "static/js/2.8a5913de.chunk.js.map": "/project-dogo/static/js/2.8a5913de.chunk.js.map",
     "index.html": "/project-dogo/index.html",
     "static/css/main.d168882f.chunk.css.map": "/project-dogo/static/css/main.d168882f.chunk.css.map",
-    "static/js/2.cb92b5a3.chunk.js.LICENSE.txt": "/project-dogo/static/js/2.cb92b5a3.chunk.js.LICENSE.txt",
+    "static/js/2.8a5913de.chunk.js.LICENSE.txt": "/project-dogo/static/js/2.8a5913de.chunk.js.LICENSE.txt",
     "static/media/banner-0.21d17de2.jpg": "/project-dogo/static/media/banner-0.21d17de2.jpg",
     "static/media/banner-1.b3ee25e5.jpg": "/project-dogo/static/media/banner-1.b3ee25e5.jpg",
     "static/media/banner-2.b34911fa.jpg": "/project-dogo/static/media/banner-2.b34911fa.jpg",
@@ -17,8 +17,15 @@
     "static/media/banner-4.e80a04b7.jpg": "/project-dogo/static/media/banner-4.e80a04b7.jpg",
     "static/media/baoquan1.d5c6a756.jpg": "/project-dogo/static/media/baoquan1.d5c6a756.jpg",
     "static/media/baoquan2.a8eaf02c.jpg": "/project-dogo/static/media/baoquan2.a8eaf02c.jpg",
-    "static/media/giaychungnhan.7a8eff78.PNG": "/project-dogo/static/media/giaychungnhan.7a8eff78.PNG",
-    "static/media/giaychungnhan1.8b81bc6c.PNG": "/project-dogo/static/media/giaychungnhan1.8b81bc6c.PNG",
+    "static/media/company1.21d17de2.jpg": "/project-dogo/static/media/company1.21d17de2.jpg",
+    "static/media/company2.b34911fa.jpg": "/project-dogo/static/media/company2.b34911fa.jpg",
+    "static/media/company3.691dbb6f.jpg": "/project-dogo/static/media/company3.691dbb6f.jpg",
+    "static/media/company4.7ca7dc45.jpg": "/project-dogo/static/media/company4.7ca7dc45.jpg",
+    "static/media/company5.b3ee25e5.jpg": "/project-dogo/static/media/company5.b3ee25e5.jpg",
+    "static/media/company6.514c8cf1.jpg": "/project-dogo/static/media/company6.514c8cf1.jpg",
+    "static/media/company7.172fc12b.jpg": "/project-dogo/static/media/company7.172fc12b.jpg",
+    "static/media/company8.b0fa875a.jpg": "/project-dogo/static/media/company8.b0fa875a.jpg",
+    "static/media/company9.aed40e5c.jpg": "/project-dogo/static/media/company9.aed40e5c.jpg",
     "static/media/giuongcuoi.d832b351.jpg": "/project-dogo/static/media/giuongcuoi.d832b351.jpg",
     "static/media/giuongcuoi1.91661b20.jpg": "/project-dogo/static/media/giuongcuoi1.91661b20.jpg",
     "static/media/giuongcuoi2.e8ec3141.jpg": "/project-dogo/static/media/giuongcuoi2.e8ec3141.jpg",
@@ -31,6 +38,7 @@
     "static/media/langnghe2.3aaeb190.jpg": "/project-dogo/static/media/langnghe2.3aaeb190.jpg",
     "static/media/loaigo1.d0f742cd.jpg": "/project-dogo/static/media/loaigo1.d0f742cd.jpg",
     "static/media/loaigo2.e11b3186.jpg": "/project-dogo/static/media/loaigo2.e11b3186.jpg",
+    "static/media/logo1.4ba6f08e.PNG": "/project-dogo/static/media/logo1.4ba6f08e.PNG",
     "static/media/phongan1.ec4bfe3d.jpg": "/project-dogo/static/media/phongan1.ec4bfe3d.jpg",
     "static/media/phongan10.69a2e2a5.jpg": "/project-dogo/static/media/phongan10.69a2e2a5.jpg",
     "static/media/phongan3.88e8f737.jpg": "/project-dogo/static/media/phongan3.88e8f737.jpg",
@@ -65,8 +73,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b424a7f0.js",
-    "static/js/2.cb92b5a3.chunk.js",
+    "static/js/2.8a5913de.chunk.js",
     "static/css/main.d168882f.chunk.css",
-    "static/js/main.b7952a6d.chunk.js"
+    "static/js/main.fd64fb39.chunk.js"
   ]
 }
