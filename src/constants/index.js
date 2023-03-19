@@ -76,7 +76,7 @@ export const phongkhachCollection = [
     src: phongkhach5,
     title: "Mẫu nội thất phòng khách gỗ đẹp, đường nét tinh tế. ",
     price: "**********",
-    description: "Thiết kế phòng khách nhà ống với bộ bàn ghế gỗ được đặt sát vào tường mang lại sự rộng rãi và thông thoáng cho không gian.Để không gian không bị đơn điệu, On Home Asia đã thiết kế thêm một bức tranh treo tường khổ lớn và bộ đèn thả trần đầy kiểu cách tăng thêm sự lãng mạn và nét duyên dáng cho ngôi nhà. ",
+    description: "Thiết kế phòng khách nhà ống với bộ bàn ghế gỗ được đặt sát vào tường mang lại sự rộng rãi và thông thoáng cho không gian.Để không gian không bị đơn điệu, chúng tôi đã thiết kế thêm một bức tranh treo tường khổ lớn và bộ đèn thả trần đầy kiểu cách tăng thêm sự lãng mạn và nét duyên dáng cho ngôi nhà. ",
   },
   {
     id: "phongkhach6",
@@ -246,63 +246,72 @@ export const phongthoCollection = [
     src: phongtho1,
     title: "Thiết kế phòng thờ cho nhà ống nhỏ",
     price: "**********",
-    description: "Không gian nhà ống không quá lớn, với cách bố trí phòng thờ chung với phòng khách này gia chủ có thể tiết kiệm được không gian vừa đảm bảo có được nơi thờ cúng. Bàn thờ được đặt xa tivi và có một vách ngăn riêng biệt, đảm bảo được sự trang trọng uy nghiêm vốn có của nơi thờ tự.",
+    description:
+      "Không gian nhà ống không quá lớn, với cách bố trí phòng thờ chung với phòng khách này gia chủ có thể tiết kiệm được không gian vừa đảm bảo có được nơi thờ cúng. Bàn thờ được đặt xa tivi và có một vách ngăn riêng biệt, đảm bảo được sự trang trọng uy nghiêm vốn có của nơi thờ tự.",
   },
   {
     id: "phongtho2",
     src: phongtho2,
     title: "Thiết kế phòng thờ sân thượng",
     price: "Liên hệ",
-    description: "Đặt phòng ở ở sân thượng là lựa chọn của rất nhiều gia đình, đây là nơi cao nhất của nhà ở và là một không gian tách biệt vô cùng yên tĩnh. Mẫu thiết kế phòng thờ này được nhiều gia chủ yêu thích vì thiết kế đa dạng, phù hợp với sở thích của gia chủ.",
+    description:
+      "Đặt phòng ở ở sân thượng là lựa chọn của rất nhiều gia đình, đây là nơi cao nhất của nhà ở và là một không gian tách biệt vô cùng yên tĩnh. Mẫu thiết kế phòng thờ này được nhiều gia chủ yêu thích vì thiết kế đa dạng, phù hợp với sở thích của gia chủ.",
   },
   {
     id: "phongtho3",
     src: phongtho3,
     title: "Mẫu phòng thờ đẹp cho nhà cấp 4",
     price: "**********",
-    description: "Thông thường, phòng thờ thiết kế cho nhà cấp 4 không được đặt riêng tại một phòng độc lập. Thay vào đó, phòng thờ, bàn ghế và sập gụ được đặt ở giữa nhà. Một bên sẽ là phòng khách, một bên là giường ngủ. Ngoài ra, phòng thờ cũng có thể đặt ngay trên tủ ở phòng khách. Theo cách thiết kế của nhà cấp 4, phòng ngủ là phòng duy nhất được tách riêng biệt bằng tường hoặc rèm, kệ tủ. Không gian bên ngoài là khu vực của phòng khách và phòng thờ chung với nhau. Phòng bếp, khu vệ sinh, nhà tắm được xây thành công trình phụ đặt cạnh nhà chính.",
+    description:
+      "Thông thường, phòng thờ thiết kế cho nhà cấp 4 không được đặt riêng tại một phòng độc lập. Thay vào đó, phòng thờ, bàn ghế và sập gụ được đặt ở giữa nhà. Một bên sẽ là phòng khách, một bên là giường ngủ. Ngoài ra, phòng thờ cũng có thể đặt ngay trên tủ ở phòng khách. Theo cách thiết kế của nhà cấp 4, phòng ngủ là phòng duy nhất được tách riêng biệt bằng tường hoặc rèm, kệ tủ. Không gian bên ngoài là khu vực của phòng khách và phòng thờ chung với nhau. Phòng bếp, khu vệ sinh, nhà tắm được xây thành công trình phụ đặt cạnh nhà chính.",
   },
   {
     id: "phongtho4",
     src: phongtho4,
     title: "Phòng thờ phong cách tân cổ điển",
     price: "Liên hệ",
-    description: "Là phong cách tổng hòa giữa nét sang trọng hiện đại với nét cổ kính truyền thống, phòng thờ tân cổ điển được nhiều gia đình lựa chọn cho không gian thờ cúng. Đồ nội thất thường là chất liệu gỗ sơn son với thiếp vàng đi kèm, bộ đồ thờ hợp mệnh cùng những bức tranh trang trí.",
+    description:
+      "Là phong cách tổng hòa giữa nét sang trọng hiện đại với nét cổ kính truyền thống, phòng thờ tân cổ điển được nhiều gia đình lựa chọn cho không gian thờ cúng. Đồ nội thất thường là chất liệu gỗ sơn son với thiếp vàng đi kèm, bộ đồ thờ hợp mệnh cùng những bức tranh trang trí.",
   },
   {
     id: "phongtho5",
     src: phongtho5,
     title: "Mẫu thiết kế phòng thờ đẹp hiện đại cho chung cư",
     price: "Liên hệ",
-    description: "Đối với khu vực phòng thờ trong chung cư; không gian này thường có diện tích nhỏ hơn. Chung cư không phải là nhà đất nên không có diện tích rộng hẳn. Do đó, không gian thờ cúng thường được tích hợp với một số khu vực khác. Tuy nhiên, sự kết hợp luôn cần đảm bảo tính thẩm mỹ cân đối và tiện dụng, hợp phong thuỷ nhất. Đây là gợi ý mà Anviethouse dành cho bạn để có được mẫu thiết kế phòng thờ đẹp hiện đại cho chung cư.",
+    description:
+      "Đối với khu vực phòng thờ trong chung cư; không gian này thường có diện tích nhỏ hơn. Chung cư không phải là nhà đất nên không có diện tích rộng hẳn. Do đó, không gian thờ cúng thường được tích hợp với một số khu vực khác. Tuy nhiên, sự kết hợp luôn cần đảm bảo tính thẩm mỹ cân đối và tiện dụng, hợp phong thuỷ nhất. Đây là gợi ý mà công ty chúng tôi dành cho bạn để có được mẫu thiết kế phòng thờ đẹp hiện đại cho chung cư.",
   },
   {
     id: "phongtho6",
     src: phongtho6,
     title: "Mẫu thiết kế phòng thờ đẹp hiện đại cho nhà ống",
     price: "**********",
-    description: "Đối với mẫu thiết kế phòng thờ dành cho nhà ống; không gian này có thiết kế hiện đại mang tính giản lược. Cho dù không quá cầu kỳ nhưng không gian này vẫn giữ được nét đẹp truyền thống; khiến ta cảm nhận được sự gần gũi và thân thiện với thế giới tâm linh. Phòng thờ cho nhà ống cũng thường được bố trí ở phòng của tầng trên cùng.",
+    description:
+      "Đối với mẫu thiết kế phòng thờ dành cho nhà ống; không gian này có thiết kế hiện đại mang tính giản lược. Cho dù không quá cầu kỳ nhưng không gian này vẫn giữ được nét đẹp truyền thống; khiến ta cảm nhận được sự gần gũi và thân thiện với thế giới tâm linh. Phòng thờ cho nhà ống cũng thường được bố trí ở phòng của tầng trên cùng.",
   },
   {
     id: "phongtho7",
     src: phongtho7,
     title: "Mẫu thiết kế phòng thờ đẹp hiện đại cho biệt thự",
     price: "**********",
-    description: "Khu vực phòng thờ biệt thự là một căn phòng riêng; được bố trí khoa học. Các món đồ nội thất trong phòng thờ của nhà biệt thự được bài trí hợp lý; đảm bảo sự thân thiện, ngăn nắp và tiện dụng, hợp phong thuỷ.",
+    description:
+      "Khu vực phòng thờ biệt thự là một căn phòng riêng; được bố trí khoa học. Các món đồ nội thất trong phòng thờ của nhà biệt thự được bài trí hợp lý; đảm bảo sự thân thiện, ngăn nắp và tiện dụng, hợp phong thuỷ.",
   },
   {
     id: "phongtho8",
     src: phongtho8,
     title: "Phòng thờ bằng gỗ tự nhiên cho gia chủ theo đạo Phật ",
     price: "Liên hệ",
-    description: "Phần lớn tín ngưỡng của con người Việt Nam chính là đạo Phật. Do đó, thiết kế phòng thờ Phật cũng luôn được nhiều gia chủ quan tâm. Các phòng thờ Phật được lựa chọn chất liệu gỗ chủ đạo là gỗ tự nhiên.",
+    description:
+      "Phần lớn tín ngưỡng của con người Việt Nam chính là đạo Phật. Do đó, thiết kế phòng thờ Phật cũng luôn được nhiều gia chủ quan tâm. Các phòng thờ Phật được lựa chọn chất liệu gỗ chủ đạo là gỗ tự nhiên.",
   },
   {
     id: "phongtho9",
     src: phongtho9,
     title: "Mẫu thiết kế phòng thờ gia tiên đẹp",
     price: "Liên hệ",
-    description: "Thiết kế phòng thờ đẹp là một trong những công việc quan trọng của mỗi gia chủ. Điều này ảnh hưởng lớn đến tài vận; tín ngưỡng của mỗi gia đình.Thiết kế phòng thờ gia tiên đẹp là cách để nhắc nhở con cháu nhớ công ơn dưỡng dục; sinh thành, nhớ về cội nguồn xưa kia. Trong thiết kế phòng thờ gia tiên thường trưng bày di ảnh của ông bà gia tiên. Đồ nội thất phòng thờ đẹp đều cần thể hiện sự tôn nghiêm, trang trọng. ",
+    description:
+      "Thiết kế phòng thờ đẹp là một trong những công việc quan trọng của mỗi gia chủ. Điều này ảnh hưởng lớn đến tài vận; tín ngưỡng của mỗi gia đình.Thiết kế phòng thờ gia tiên đẹp là cách để nhắc nhở con cháu nhớ công ơn dưỡng dục; sinh thành, nhớ về cội nguồn xưa kia. Trong thiết kế phòng thờ gia tiên thường trưng bày di ảnh của ông bà gia tiên. Đồ nội thất phòng thờ đẹp đều cần thể hiện sự tôn nghiêm, trang trọng. ",
   },
 ];
 

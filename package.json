@@ -2,7 +2,7 @@
   "name": "do-go-dai-dong-tam",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://huanhust1998.github.io/project-dogo/",
+  "homepage": "https://daidongtam.github.io/do-go-dep/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
